@@ -145,3 +145,45 @@ class DocumentProps(BaseClass):
     fullscreenElement: bool
     pointerLockElement: bool
     hidden: bool
+
+class BrowserName:
+    pass
+
+class Chrome(BrowserName):
+    def __str__(self):
+        return 'Chrome'
+
+class Firefox(BrowserName):
+    def __str__(self):
+        return 'Firefox'
+
+class Safari(BrowserName):
+    def __str__(self):
+        return 'Safari'
+
+class Edge(BrowserName):
+    def __str__(self):
+        return 'Edge'
+
+class Opera(BrowserName):
+    def __str__(self):
+        return 'Opera'
+
+class InternetExplorer:
+    def __str__(self):
+        return 'Internet Explorer'
+
+class OperatingSystem:
+    pass
+
+class Windows(OperatingSystem):
+    pass
+
+    def __str__(self):
+        return 'Windows'
+
+class Mac(OperatingSystem):
+    pass
+
+    def __str__(self):
+        return 'MacOs'
