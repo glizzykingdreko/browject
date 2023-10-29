@@ -1,6 +1,6 @@
 # BrowJect
 
-![BrowJect Logo](img/banner.png)
+![BrowJect Logo](https://raw.githubusercontent.com/glizzykingdreko/browject/main/img/banner.png)
 [![PyPI version](https://badge.fury.io/py/browject.svg)](https://badge.fury.io/py/browject) ![License](https://img.shields.io/github/license/glizzykingdreko/browject) [![GitHub Repo](https://img.shields.io/badge/GitHub-View_repo-blue?style=flat&logo=github)](https://github.com/glizzykingdreko/browject)
 
 

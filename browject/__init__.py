@@ -1,5 +1,5 @@
-from main import BrowJect
-from models import (
+from .main import BrowJect
+from .models import (
     Chrome,
     Firefox,
     Safari,

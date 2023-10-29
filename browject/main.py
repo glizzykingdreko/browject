@@ -3,8 +3,8 @@ from typing import Dict, Union, Optional
 from requests import post
 from re import search
 
-from utils import Dict2Object
-from models import (
+from .utils import Dict2Object
+from .models import (
     BaseClass, 
     Timezone, 
     Navigator, 
@@ -61,7 +61,7 @@ class BrowJect(BaseClass):
         browser = BrowJect() # No parameters = random browser
         print(browser.browserName)
         ```
-        
+
         ### With a specific browser
         ```py
         from browject import BrowJect, Chrome, Mac
