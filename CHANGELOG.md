@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.1.4] - 2023-10-29
+- Adjusted README.md to be more readable on PyPI.
 
 ## [0.1.3] - 2023-10-29
 

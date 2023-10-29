@@ -1,6 +1,8 @@
 # BrowJect
 
 ![BrowJect Logo](img/banner.png)
+[![PyPI version](https://badge.fury.io/py/browject.svg)](https://badge.fury.io/py/browject) ![License](https://img.shields.io/github/license/glizzykingdreko/browject) [![GitHub Repo](https://img.shields.io/badge/GitHub-View_repo-blue?style=flat&logo=github)](https://github.com/glizzykingdreko/browject)
+
 
 BrowJect is a Python module to access and emulate various browser attributes, making it an ideal tool for reverse engineering antibots. The module is powered by [TakionAPI](https://takionapi.tech/), ensuring that the browser data is always up-to-date with any browser version/model/OS. 
 
@@ -33,6 +35,8 @@ Thanks to TakionAPI, the best antibot bypass API provider, the BrowJect database
   - Internet Explorer (Versions 7 to 11)
   - Brave (Versions 1.32 to 1.59)
   - Opera (Versions 20 to 103)
+  
+Browsers versions are automatically updated on new releases thanks to [TakionAPI](https://takionapi.tech/).
 
 ## Features
 
